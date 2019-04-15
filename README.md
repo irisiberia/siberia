@@ -242,14 +242,6 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来帮助一些在学习 Java 或者面试过程中遇到问题的小伙伴。
 
-### 联系我
-
-### 架构
-
-<a href="https://time.geekbang.org/column/intro/166?code=-qJu3VIe2PPcts3jpNEti1EflIaCAZwLkQhd2mF4ESg%3D&utm_term=SPoster" target="_blank">
-	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3微信图片_20190411230100.jpg" width="300px"/>
-</a>
-
 ### Contributor
 
 下面是笔主收集的一些对本仓库提过有价值的pr或者issue的朋友，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的微信与我联系。下面的排名不分先后！
