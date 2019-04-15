@@ -1,6 +1,4 @@
-Java后端技术交流群(限工作一年及以上，架构视频免费领取) ：[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-869815609-red.svg)](https://jq.qq.com/?_wv=1027&k=5QqyxIx) 
 
-强烈推荐七牛云CEO老许的[架构专栏](#架构)，微信扫描二维码购买后，[加我好友](#联系我)私聊我领取24元返现。129元的课程相当于75入手。
 
 <h1 align="center">Java 学习/面试指南</h1>
 <p align="center">
@@ -271,16 +269,7 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来帮助一些在学习 Java 或者面试过程中遇到问题的小伙伴。
 
-### 投稿
-
-由于我个人能力有限，很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。大家也可以对自己的文章进行自荐，对于不错的文章不仅可以成功在本仓库展示出来更可以获得作者送出的 50 元左右的任意书籍进行奖励(当然你也可以直接折现50元)。
-
 ### 联系我
-
-添加我的微信备注“Github”,回复关键字 **“加群”** 即可入群。
-
-![我的微信](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-2/JavaGuide.jpg)
-
 
 ### 架构
 
@@ -327,13 +316,3 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 <a href="https://github.com/yuechuanx">  
     <img src="https://avatars3.githubusercontent.com/u/19339293?s=460&v=4" width="45px">
 </a>
-
-### 公众号
-
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
-
-**《Java面试突击》:** 由本文档衍生的专为面试而生的《Java面试突击》V2.0 PDF 版本[公众号](#公众号)后台回复 **"Java面试突击"** 即可免费领取！
-
-**Java工程师必备学习资源:** 一些Java工程师常用学习资源[公众号](#公众号)后台回复关键字 **“1”** 即可免费无套路获取。 
-
-![我的公众号](https://user-gold-cdn.xitu.io/2018/11/28/167598cd2e17b8ec?w=258&h=258&f=jpeg&s=27334)
